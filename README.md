@@ -1,4 +1,4 @@
-![Header](./header.jpg)
+![Header](https://github.com/manojvignesh/manojvignesh/raw/master/header.jpg)
 
 ### Hi there 👋
 
