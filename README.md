@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojvignesh)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manojvignesh)](https://git.io/streak-stats)
 <!--
 **manojvignesh/manojvignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
