@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Vignesh 🇮🇳</h1>
 <h3 align="center">
-Associate Director · Full-Stack Engineer · Building scalable fintech systems
+Associate Director · Full-Stack Engineer · Building scalable software systems
 </h3>
 
 <br />
@@ -13,13 +13,13 @@ Associate Director · Full-Stack Engineer · Building scalable fintech systems
 
 ### 👨‍💻 About Me
 
-I’m a **software engineer with 10+ years of industry experience**, currently working as an **Associate Director at a fintech startup in Bangalore**, where I help build and scale a **co-lending platform for India**.
+I’m a **software engineer with 10+ years of industry experience**, currently working as an **Associate Director**, building and scaling **large, production-grade systems** across different problem domains.
 
-I work at the intersection of **architecture, product, and execution** — balancing hands-on coding with technical leadership.
+I work at the intersection of **architecture, product, and execution** — staying hands-on while also guiding technical direction and engineering standards.
 
 - Designing **scalable, event-driven systems**
-- Mentoring engineers and setting engineering standards
-- Simplifying complex problems into maintainable solutions
+- Writing maintainable, production-ready code
+- Mentoring engineers and improving team effectiveness
 - Frontend-leaning full-stack developer with strong backend depth
 
 ---
