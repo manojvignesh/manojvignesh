@@ -11,6 +11,21 @@ Associate Director · Full-Stack Engineer · Building scalable software systems
 
 ---
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+
+![Systems](https://img.shields.io/badge/Focus-Systems%20Design-blue?style=flat-square)
+![Production](https://img.shields.io/badge/Mindset-Production--First-success?style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj%20Vignesh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/manojvignesh)
+![Email](https://img.shields.io/badge/Email-manojvignesh.s%40gmail.com-red?style=flat-square&logo=gmail)
+
+
 ### 👨‍💻 About Me
 
 I’m a **software engineer with 10+ years of industry experience**, currently working as an **Associate Director**, building and scaling **large, production-grade systems** across different problem domains.
@@ -39,13 +54,6 @@ I work at the intersection of **architecture, product, and execution** — stayi
 - Distributed systems & system design
 - Clean architecture and long-term maintainability
 - Performance, reliability, and developer experience
-
----
-
-### 💬 Ask Me About
-**JavaScript, React, Java, Spring Boot, System Design**
-
-📫 **Reach me at:** `manojvignesh.s@gmail.com`
 
 ---
 
