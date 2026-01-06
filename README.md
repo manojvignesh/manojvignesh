@@ -60,23 +60,3 @@ I work at the intersection of **architecture, product, and execution** — stayi
 > _Simple designs. Predictable systems. Production-first thinking._
 
 <br/>
-
-<!-- ===================== -->
-<!--        WIDGETS        -->
-<!-- ===================== -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=15259741" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15259741&image_size=auto&color_scheme=dark">
-    <img alt="Dashboard stats of @manojvignesh" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=15259741&image_size=auto&color_scheme=light">
-  </picture>
-</a>
-
-<br/>
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=15259741&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=15259741&period=all_times&image_size=auto&color_scheme=dark">
-    <img alt="Contribution Time Distribution of @manojvignesh" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=15259741&period=all_times&image_size=auto&color_scheme=light">
-  </picture>
-</a>
